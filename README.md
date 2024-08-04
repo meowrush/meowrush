@@ -1,7 +1,13 @@
 ## Meow Meow Ji 🙏
 
 - 👷‍♂️ [meri majdoori ki daastaan / my resume](./resume.pdf)
-- 🧑‍💻 [thora likh bhi leta hu mai / my blog]()
+
+  
+- 🧑‍💻 [thora likh bhi leta hu mai / my blog](https://aarushgoyal.medium.com/)
 
 
-![giphy](https://github.com/user-attachments/assets/703222fd-4d31-4940-9904-4ed98f8dbc59)
+<a href="https://aarushgoyal.medium.com/how-to-connect-multiple-bluetooth-devices-for-parallel-audio-sharing-on-mac-5e15840cd52f">
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/2724d4af-98dd-4943-bcca-2a679aea9c57">
+</a>
+
+
